@@ -7,7 +7,6 @@
     <b> Things to know about me! </b> <i>(click to expand!)</i> 
   </summary>
   <hr/>
-  <br/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sunghee2&show_icons=true">
   <p>
     <b>💼 Currently working as:</b>
