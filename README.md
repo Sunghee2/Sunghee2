@@ -9,10 +9,6 @@
   <hr/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sunghee2&show_icons=true">
   <p>
-    <b>💼 Currently working as:</b>
-    <br/>
-    Software Engineer at <b>eBay Korea</b>
-    <br/><br/>
     <b>⚡ Languages:</b>
     <br/>  
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
