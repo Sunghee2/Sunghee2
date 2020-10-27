@@ -1,6 +1,6 @@
 <samp>
   <div align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSunghee2"/></div>
-  <p align="center">Hi, there!<img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px"><br/>I'm Sunghee, a software developer.</p>
+  <p align="center">Hi, there!<br/>I'm Sunghee, a software developer.</p>
 <br>
 <details align="center">
   <summary> 
@@ -9,6 +9,7 @@
   <hr/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sunghee2&show_icons=true">
   <p>
+    <br/><br/>
     <b>⚡ Languages:</b>
     <br/>  
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -23,6 +24,7 @@
     <br/>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+    <br/><br/>
   </p>
 <hr/>
 </details>
