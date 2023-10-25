@@ -35,9 +35,6 @@
   <a href="mailto:contato.630sunghee@gmail.com">
     <img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.630sunghee@gmail.com" />
   </a>
-  <a href="https://www.linkedin.com/in/sunghee-lee-016099170">
-    <img align="center" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunghee-lee-016099170/" />
-  </a>
   <a href="https://github.com/Sunghee2?tab=followers">
     <img align="center" src="https://img.shields.io/github/followers/Sunghee2.svg?style=social&label=Follow&maxAge=2592000" />
   </a>
